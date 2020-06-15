@@ -4,7 +4,8 @@ PyViz Analysis
 ## SFO Housing Analysis
 
 This report cover the SFO housing market between 2010 and 2016.
-![housing_units_sfo.png](Images/housing_units_sfo.png)
+
+   ![Housing Units SFO](Images/housing_units_sfo.png)
 
 ### Averages
 * Housing Units Per Year
