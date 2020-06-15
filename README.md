@@ -17,7 +17,7 @@ PyViz Analysis
 ### Neighborhood Map
 
 ### Dashboard
-The Dashboard contains two tabs:
+The Dashboard contains three tabs:
 * Averages
 * Top 10
 * Neighborhood Map
