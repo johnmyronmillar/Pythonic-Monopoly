@@ -24,7 +24,7 @@ This report cover the SFO housing market between 2010 and 2016.
 ### Top 10
 * The Top 10 Most Expensive Neighborhoods
 
-   ![Most Expensive Neighborhoods](Images/top10_expensive_neighborhood_sfo.png)
+   ![Most Expensive Neighborhoods](Images/top10_expensive_neighborhoods_sfo.png)
 
 * Parallel Coordinates Analysis
 
