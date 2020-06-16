@@ -7,6 +7,22 @@ This report covers the SFO housing market between 2010 and 2016.
 
    ![Housing Units 2010-2016](Images/housing_units_sfo.png)
 
+### Dashboard
+The interactive charts below are accessed through the Dashboard which contains three tabs:
+
+* Averages
+  * Housing Units 2010-2016
+  * Average Gross Rent
+  * Average Sales Price
+  * Average Sales Price by Neighborhood
+
+* Top 10
+  * Most Expensive Neighborhoods
+  * Parallel Coordinates of Most Expensive
+  * Parallel Categories of Most Expensive
+
+* Neighborhood Map
+
 ### Averages
 
 * Average Gross Rent in San Francisco Per Year
@@ -39,18 +55,4 @@ This report covers the SFO housing market between 2010 and 2016.
 
    ![Neighborhood Map](Images/plot_map_sfo.png)
 
-### Dashboard
-The Dashboard contains three tabs:
 
-* Averages
-** Housing Units 2010-2016
-** Average Gross Rent
-** Average Sales Price
-** Average Sales Price by Neighborhood
-
-* Top 10
-** Most Expensive Neighborhoods
-** Parallel Coordinates of Most Expensive
-** Parallel Categories of Most Expensive
-
-* Neighborhood Map
